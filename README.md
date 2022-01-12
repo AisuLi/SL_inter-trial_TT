@@ -1,2 +1,1 @@
-# Data of JEPHPP paper "Statistical regularities across trials bias attentional selection"
-# Scripts are run via MATLAB
+# Across-trial SL of target-target associations in pop-out feature search
